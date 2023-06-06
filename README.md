@@ -2,7 +2,7 @@
   <div id="header" align="center">
           <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" </>
           <p align ="center">
-            My name is Marcos Esteban Godoy, I am currently in Cordoba, Argentina.
+            My name is Marcos Esteban Godoy, I am currently in Cordoba, Argentina.</br>
                 I am self-taught app and website development
            
   </p>
