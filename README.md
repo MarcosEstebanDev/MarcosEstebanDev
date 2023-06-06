@@ -42,7 +42,7 @@ MongoDB
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
          js: ["React"],
