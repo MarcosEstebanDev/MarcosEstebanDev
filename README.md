@@ -1,6 +1,6 @@
   
   <div id="header" align="center">
-          <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="480" frameBorder="0"</>
+          <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="480" height="480" </>
          <p align ="center">
                 Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.
                 Soy autodidacta me especializo en resolver problemas atravez del codigo.
