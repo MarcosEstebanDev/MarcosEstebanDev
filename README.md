@@ -14,12 +14,11 @@
 ###  About me:
 -  Ask me about **JAVASCRIPT, REACT, NODE.JS, EXPRESS, MONGODB **.
 
- I’m interested in:
-
-Software engineering
-Utility development
-Library development
-Systems optimisation
+## I’m interested in:
+-   Software engineering
+-   Utility development
+-   Library development
+-   Systems optimisation
 
 🌱 I’m currently learning
 
