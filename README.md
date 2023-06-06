@@ -36,13 +36,7 @@ JavaScript
 CSS
 Java
 TypeScript
-MongoDB..
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
-
-
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
-
+MongoDB
 
 ```javascript
 const aboutMe = {
@@ -56,7 +50,6 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
