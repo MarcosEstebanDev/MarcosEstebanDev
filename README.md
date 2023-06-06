@@ -1,8 +1,7 @@
   
   <div id="header" align="center">
           <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" </>
-          ### Hi there 👋
-          <p align ="left">
+          <p align ="center">
             My name is Marcos Esteban Godoy, I am currently in Cordoba, Argentina.
                 I am self-taught app and website development
            
@@ -48,7 +47,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["styled componets", "taiwild", "Bootstrap", "Material Design", "Semantic UI"]
+         css: ["styled componets", "taiwilnd", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
          java: ["Spring"],
