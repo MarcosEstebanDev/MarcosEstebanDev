@@ -1,13 +1,11 @@
   
   <div id="header" align="center">
           <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width"200" />
-        <h1 align="center">Hi, I'm Marcos Esteban</h1>
-        <h4 align="center">
+  <h1 align="center">Hi, I'm Marcos Esteban</h1>
          <p align ="center">
                 Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.
                 Soy autodidacta me especializo en resolver problemas atravez del codigo.
-     
-                Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p></h4>
+                Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p>
 
 </div>
 ### Hi there 👋
