@@ -1,7 +1,6 @@
   
   <div id="header" align="center">
-          <iframe src="https://giphy.com/embed/H7CKd1GO6oiZQo7L5d" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-photoshop-adobe-H7CKd1GO6oiZQo7L5d">via GIPHY</a></p>
-  <h1 align="center">Hi, I'm Marcos Esteban</h1>
+          <img src="https://giphy.com/embed/H7CKd1GO6oiZQo7L5d" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
          <p align ="center">
                 Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.
                 Soy autodidacta me especializo en resolver problemas atravez del codigo.
