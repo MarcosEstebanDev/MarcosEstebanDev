@@ -2,12 +2,12 @@
   <div id="header" align="center">
           <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width"200" />
         <h1 align="center">Hi, I'm Marcos Esteban</h1>
-        <h3 align="center">
+        <h4 align="center">
          <p align ="center">
-                Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.<br/>
-                Soy autodidacta me especializo en resolver problemas atravez del codigo.<br/><br/>
-                Descubrí lo que me gusta al desarrollar interfaz de usuario, manipular estados para una efectiva interaccion con el sistema, siempre buscando un diseño, intuitivo, interactivo.<br/>
-                Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p></h3>
+                Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.
+                Soy autodidacta me especializo en resolver problemas atravez del codigo.
+     
+                Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p></h4>
 
 </div>
 ### Hi there 👋
