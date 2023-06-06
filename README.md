@@ -8,7 +8,7 @@
   </p>
 </div>
 
-### Hi there 👋
+### Hi there 👋 come vay
 
 ***
 
@@ -27,7 +27,7 @@ JAVA & SPRING BOOT
 
 📫 How to reach me
 
-In progress... check back later for an update!
+In progress... https://marcosgodoy-portfolio.netlify.app/ check back later for an update!
 Skillsets previously developed and utilitsed:
 
 Windows cmd
