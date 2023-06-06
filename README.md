@@ -1,7 +1,7 @@
   
   <div id="header" align="center">
           <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="250" </>
-         <p align ="center">
+           <p align ="leftr">
                 Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.
                 Soy autodidacta me especializo en resolver problemas atravez del codigo.
                 Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p>
