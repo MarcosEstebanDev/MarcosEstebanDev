@@ -39,6 +39,7 @@ Java
 TypeScript
 MongoDB
 
+⭐️
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -65,8 +66,3 @@ const aboutMe = {
 
 [![MarcosEstebanDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosEstebanDev)](https://github.com/MarcosEstebanDev/github-readme-stats)
 
-
-
----
-
-⭐️
