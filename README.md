@@ -11,4 +11,5 @@
 
 ***
 
-### About me 
+### 🧑‍💻 About me:
+- 💻 Ask me about **JAVASCRIPT, REACT, NODE.JS, EXPRESS, MONGODB **
