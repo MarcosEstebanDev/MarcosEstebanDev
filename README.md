@@ -8,7 +8,7 @@
   </p>
 </div>
 
-### Hi there 👋 come vay
+### Hi there 👋
 
 ***
 
