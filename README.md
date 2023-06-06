@@ -45,16 +45,16 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React"],
+         css: ["styled componets", "taiwild", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+ 
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
@@ -63,8 +63,10 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![MarcosEstebanDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosEstebanDev)](https://github.com/MarcosEstebanDev/github-readme-stats)
+
+
 
 ---
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️
