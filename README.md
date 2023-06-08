@@ -28,6 +28,9 @@ JAVA & SPRING BOOT
 📫 How to reach me
 
 In progress... https://marcosgodoy.netlify.app check back later for an update!
+
+I usually have fun in the codewars proposal https://www.codewars.com/users/MarcosGodoydevelopped/stats
+
 Skillsets previously developed and utilitsed:
 
 Windows cmd
