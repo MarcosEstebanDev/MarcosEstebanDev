@@ -23,7 +23,7 @@
 
 🌱 I’m currently learning
 
-PYTHON & DAJNGO 
+PYTHON & DJANGO 
 
 📫 How to reach me
 
