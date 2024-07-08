@@ -13,7 +13,7 @@
 ***
 
 ###  About me:
--  Ask me about **JAVASCRIPT, REACT, NODE.JS, EXPRESS, MONGODB **.
+-  Ask me about **JAVASCRIPT, REACT, NODE.JS, EXPRESS, PYTHON **.
 
 ## I’m interested in:
 -   Software engineering
@@ -23,7 +23,7 @@
 
 🌱 I’m currently learning
 
-JAVA & SPRING BOOT 
+PYTHON & DAJNGO 
 
 📫 How to reach me
 
@@ -38,26 +38,26 @@ Windows Powershell
 MySQL
 JavaScript
 CSS
-Java
+Python
 TypeScript
 MongoDB
 
 ⭐️
-```javascript
+```
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
+   code: [Javascript, Typescript, HTML, CSS, Java, Python],
    technologies: {
       frontEnd: {
          js: ["React"],
          css: ["styled componets", "taiwilnd", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
+         python: ["Flask", "Django"],
          java: ["Spring"],
          js: ["Node", "Express"],
-         misc: ["Cypress"]
+        
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "mySQL", "SQLServer", "Postgres"],
  
    },
    currentOccupation: ["last year student, open for job opportunities"],
