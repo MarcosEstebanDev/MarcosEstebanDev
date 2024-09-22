@@ -33,8 +33,8 @@ I usually have fun in the codewars proposal https://www.codewars.com/users/Marco
 
 Skillsets previously developed and utilitsed:
 
-Windows cmd
-Windows Powershell
+Postgres
+Flask
 MySQL
 JavaScript
 CSS
@@ -48,8 +48,8 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Java, Python],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["styled componets", "taiwilnd", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React, Next"],
+         css: ["Styled Componets", "Taiwilnd", "Bootstrap", "Material Design"]
       },
       backEnd: {
          python: ["Flask", "Django"],
