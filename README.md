@@ -15,7 +15,7 @@ tomó así y no de la otra forma. Por eso documento las decisiones de arquitectu
 
 ### Proyectos
 
-#### [agent-platform](https://github.com/MarcosEstebanDev/agent-platform) — Orquestador de workflows distribuidos
+#### [agent-platform](https://github.com/MarcosEstebanDev/agent-plataform) — Orquestador de workflows distribuidos
 `NestJS` · `PostgreSQL` · `BullMQ` · `Docker` · `Arquitectura Hexagonal`
 
 Reparte trabajo a workers aislados en containers. Lo interesante no es la ejecución, es todo
